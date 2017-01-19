@@ -1,0 +1,1 @@
+==================== E:\Github\Xenotix-Python-Keylogger\defaulyhook.py - Sublime Text (UNREGISTERED) ==================== [Ctrl]NASDADS1#123123123¹23 [SHIFT]ÅHÜ §Í ÞHÍ§ ÅÓRK[SHIFT]Oem_2 Ö ==================== Running applications ====================  ==================== python  pyhooker.py ====================  
